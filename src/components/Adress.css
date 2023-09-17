@@ -1,0 +1,13 @@
+
+.lakatsa-div{
+    align-items: center;
+    border: 1px solid red;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border: 2px solid var(--title-color, #01384D);
+    border-radius: 5px;
+}

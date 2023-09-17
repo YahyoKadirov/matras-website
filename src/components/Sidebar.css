@@ -1,0 +1,76 @@
+.sidebar{
+     background-color: rgba(1, 56, 77, 1);
+     color: white;
+    width: 20%;
+    height: 100vh;
+}
+ul{
+    list-style: none;
+}
+
+.sidebar-list{
+    height: 80%;
+}
+.sidebar-item {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    padding: 16px;
+}
+.sidebar-item-item{
+    color: white;
+}
+.sidebar-item:hover{
+    background-color: rgba(234, 191, 159, 1);
+    color: white;
+}
+
+.sidebar-header{
+    display: flex;
+    padding: 40px 40px 20px 20px;
+}
+.admin-panel{
+    display: flex;
+}
+.admin-nav{
+    background-color: #01384D;
+    height: 70px;
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-input{
+    width: 40%;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 8px;
+    outline: none;
+}
+.nav-input::placeholder{
+    padding-left: 20px;
+}
+.nav-img{
+    background-color: white;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    padding: 16px;
+    display: flex;
+    margin: 10px;
+}
+.admin-nav-2{
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.johndoe{
+    color: #FFF;
+        font-family: Montserrat;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        padding: 25px 15px 15px 20px;
+        text-align: center;
+}

@@ -1,0 +1,51 @@
+.modal-backdrop-mahsulotlar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.modals-mahsulotlar {
+    margin: 120px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 900px;
+    height: 430px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mahsulotlar-select{
+    width: 220px;
+    height: 50px;
+    border-radius: 5px;
+        padding: 15px;
+            border: 1px solid rgba(0, 0, 0, 0.20);
+            background: #FFF;
+            outline: none;
+}
+.mahsulotlar-inp{
+        width: 220px;
+            height: 50px;
+            border-radius: 5px;
+            padding: 15px;
+            border: 1px solid rgba(0, 0, 0, 0.20);
+            background: #FFF;
+            outline: none;
+            margin-top: 10px;
+}
+.mahsulot-qoshish{
+        width: 135px;
+            height: 40px;
+            border-radius: 8px;
+            background-color: #01384D;
+            color: white;
+            margin: 50px;
+
+}
+.mahsulotlar-modal-box-3{
+    width: 200px;
+    margin: 5px;
+}

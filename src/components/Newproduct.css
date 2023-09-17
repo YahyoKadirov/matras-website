@@ -1,0 +1,15 @@
+.aksya{
+    width: 150px;
+    height: 40px;
+    background-color: var(--green, #1FCA25);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px 16px;
+    border-radius: 5px;
+    border: none;
+}
+.eskinarx{
+    color: red;
+    text-decoration: line-through;
+}

@@ -1,0 +1,25 @@
+.texnalogya{
+    margin: 10px 35px;
+}
+iframe{
+    border: 3px solid rgba(1, 56, 77, 1);
+}
+.kompanyaHaqida2{
+    padding: 18px;
+    width: 580px;
+    background-color: #EABF9F;;
+    border: 2px solid rgba(1, 56, 77, 1);
+    border-radius: 5px;
+    align-items: center;
+    color: var(--title-color, #01384D);
+}
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 16px;
+}
+.tanlash{
+    border: 2px solid rgba(1, 56, 77, 1);
+    border-radius: 5px;
+}

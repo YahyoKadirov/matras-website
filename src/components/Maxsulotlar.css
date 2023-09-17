@@ -1,0 +1,32 @@
+.info-products{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.maxsulotla-title{
+    text-align: center;
+    font-size: 45px;
+}
+
+.maxsulotla-btn{
+    text-align: center;
+}
+.btn-item{
+    margin-left: 20px;
+    font-size: 16px;
+    background-color: #fff;
+    color: var(--title-color, #01384D);
+    width: 120px;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+}
+.btn-item:hover{
+    color: white;
+    background-color: var(--title-color, #01384D);;
+        font-family: Raleway;
+        font-style: normal;
+        border-bottom: 4px solid #01384D;
+        width: 120px;
+        height: 45px;
+}

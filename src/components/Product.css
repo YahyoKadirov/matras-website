@@ -1,0 +1,50 @@
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 16px;
+}
+.obshi{
+    display: flex;
+    justify-content: start;
+    margin-bottom: 100px;
+    background-color: rgba(246, 251, 255, 1);
+    padding: 10px;
+    border: 1px solid #C7DFF5;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.content{
+    margin-left: 100px;
+}
+.content-nmadr{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.product-btn{
+    margin-top: 30px;
+    width: 180px;
+    height: 50px;
+    align-items: center;
+    border: 2px solid rgba(1, 56, 77, 1);
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.yengi-tavar{
+    width: 400px;
+        height: 40px;
+        background-color: rgba(255, 107, 107, 1);
+        color: white;
+        text-align: center;
+        font-size: 12px;
+        border-radius: 5px;
+        border: none;
+        display: flex;
+        padding: 10px 20px 20px 20px;
+}

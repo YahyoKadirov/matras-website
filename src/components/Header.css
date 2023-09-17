@@ -1,0 +1,81 @@
+.Header{
+    background-color: rgba(234, 191, 159, 1);
+    margin-bottom: 40px;
+}
+.links{
+    list-style: none;
+    display: flex;
+    color: var(--title-color, #01384D);
+        font-family: Raleway;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+}
+a{
+    text-decoration: none;
+    padding: 0 10px;
+    color: rgba(1, 56, 77, 1);
+}
+.Navbar{
+    width: 500px;
+    position: absolute;
+    left: 800px;
+    margin-top: -30px;
+}
+.NavbarLogo{
+    width: 200px;
+    top: 50px;
+    position: relative;
+}
+.NavbarPhone{
+    display: flex;
+    text-align: center;
+    margin-left: 100px;
+}
+h4{
+    padding-left: 10px;
+    font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+}
+.btn-navbar{
+    width: 160px;
+    height: 46px;
+    background-color: #fff;
+    color: rgba(1, 56, 77, 1);
+    border-radius: 3px;
+    margin-left: 50px;
+    margin-top: 5px;
+            border-radius: 5px;
+                border: 2px solid var(--title-color, #01384D);
+                background: #FFF;
+}
+.headerContent{
+    margin-top: 100px;
+    display: flex;
+}
+div h1{
+    font-size: 60px;
+}
+.kategoriya-btn{
+    width: 160px;
+        height: 46px;
+        background-color: #fff;
+        color: rgba(1, 56, 77, 1);
+        border-radius: 3px;
+        margin-top: 5px;
+        border-radius: 5px;
+         border: 2px solid var(--title-color, #01384D);
+         background: #FFF;
+         margin-top: 20px;
+}
+.header-title{
+    color: var(--title-color, #01384D);
+        font-family: Raleway;
+        font-size: 45px;
+        font-style: normal;
+        font-weight: 800;
+}

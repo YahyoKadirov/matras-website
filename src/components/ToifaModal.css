@@ -1,0 +1,61 @@
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.modals {
+    max-width: 480px;
+    margin: 0px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 400px;
+    height: 500px;
+}
+.toifa-modal-input{
+width: 320px;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid var(--title-color, #01384D);
+    margin-top: 20px;
+    margin-left: 35px;
+    padding: 15px;
+}
+.toifa-modal-btn{
+    width: 320px;
+        height: 50px;
+        margin-left: 35px;
+        margin-top: 40px;
+        border: 2px solid var(--title-color, #01384D);
+        border-radius: 5px;
+        display: flex;
+        padding-top: 10px;
+        padding-left: 120px;
+        background-color: var(--title-color, #01384D);
+        color: #F6FBFF;
+
+}
+.toifa-modal-qoshish{
+        color: var(--title-color, #01384D);
+            font-family: Raleway;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            text-align: left;
+            margin-top: 30px;
+            padding: 20px 20px 0px 20px;
+}
+.toifa-modal-kategoryanomi{
+            color: var(--title-color, #01384D);
+                font-family: Raleway;
+                font-size: 40px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: normal;
+                text-align: left;
+                padding: 20px;
+}

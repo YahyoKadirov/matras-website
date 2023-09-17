@@ -1,0 +1,28 @@
+.toifalar-table{
+    width: 90%;
+        margin: 50px auto;
+}
+.toifalar-head{
+    width: 70px;
+        height: 50px;
+        background-color: rgba(1, 56, 77, 1);
+        color: white;
+        padding-left: 30px;
+}
+.toifalar-body-1{
+    border: 1px solid #01384D;
+        height: 50px;
+        width: 100%;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    
+
+}
+.qoshish{
+    width: 135px;
+        height: 40px;
+         border-radius: 8px;
+         background-color: #01384D;
+         color: white;
+}
